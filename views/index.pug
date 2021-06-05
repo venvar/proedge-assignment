@@ -1,0 +1,21 @@
+doctype html
+head
+  link(rel='stylesheet' href='./style.css')
+
+  meta(charset='UTF-8')
+  meta(http-equiv='X-UA-Compatible' content='IE=edge')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0')
+  title Form
+center
+ div(classname='App')
+  p(class='heading') Result Form
+  header(classname='App-header')
+    form(action='testAPI' method='get' id="form")
+      p  Enter Roll Number(Seperate them with comma if there are multiple numbers)  
+      input(type='text' name='rollNo' autofocus)
+      br
+      br
+      input(type='submit' value='Submit' id='submit')
+      br
+      p(id="msg")
+ script(src='./script.js')

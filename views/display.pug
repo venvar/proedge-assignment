@@ -1,0 +1,14 @@
+link(rel='stylesheet' href='./style.css')
+center
+ table(border='' cellpadding='6' style='border-collapse:collapse')
+  tr
+    td(align='center' style="font-size:25px")
+      | Roll No
+    td(align='center' style="font-size:25px")
+      | Result
+    each val in items
+        tr
+        td(align='center')
+            =val.rollno 
+        td(align='center')  
+            =val.result
