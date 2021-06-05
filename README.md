@@ -20,7 +20,7 @@ In the above, rollnumber is the value to be passed, and it will return pass or f
 Run the server npm start
 The server is running at localhost:3000
 
-# components of code
+# Components of code
 
 This is the homepage which consists of the form through which we will pass the values to the API.
 ![image](https://user-images.githubusercontent.com/81376452/120895494-c3c80300-c63a-11eb-8a1e-ae5d4fcbb7c7.png)
@@ -29,7 +29,8 @@ This is the homepage which consists of the form through which we will pass the v
 for this input: 5,6,9,12,18,20,25,30,32,36,37,38,40,42,45,47,49,50
 ![image](https://user-images.githubusercontent.com/81376452/120895546-0be72580-c63b-11eb-8c04-42de9c7515ac.png)
 
-result
+# Result
+
 ![image](https://user-images.githubusercontent.com/81376452/120895568-2ae5b780-c63b-11eb-8243-4000203133c8.png)
 
 # Libraries and Pluggins
