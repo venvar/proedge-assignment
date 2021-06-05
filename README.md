@@ -33,7 +33,7 @@ for this input: 5,6,9,12,18,20,25,30,32,36,37,38,40,42,45,47,49,50
 
 ![image](https://user-images.githubusercontent.com/81376452/120895568-2ae5b780-c63b-11eb-8243-4000203133c8.png)
 
-# Libraries and Pluggins
+# Libraries and Plugins
 Node.js
 Expressjs
 Pug
